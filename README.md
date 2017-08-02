@@ -1,1 +1,1 @@
-![banner](banner2.png "banner")
+![banner](banner.png "banner")
