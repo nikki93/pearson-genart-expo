@@ -7,6 +7,8 @@
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
     "expo": "^19.0.0",
+    "expo-processing": "^1.0.1",
+    "processing-js": "^1.6.6",
     "react": "16.0.0-alpha.12",
     "react-native": "https://github.com/expo/react-native/archive/sdk-19.0.0.tar.gz"
   }
